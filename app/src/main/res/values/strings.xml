@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Norwegian-English Translator</string>
+    <string name="norwegian_to_english">Norwegian to English</string>
+    <string name="english_to_norwegian">English to Norwegian</string>
+    <string name="translate">Translate</string>
+    <string name="copy">Copy</string>
+    <string name="clear">Clear</string>
+</resources>
